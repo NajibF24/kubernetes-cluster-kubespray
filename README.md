@@ -12,7 +12,7 @@ It includes step-by-step instructions, inventory examples, diagrams, and Ansible
 - Architecture diagrams
 
 ## Architecture Diagram
-![Cluster Architecture](diagrams/architecture.png)
+![Cluster Architecture](diagrams/architecture.mmd)
 
 ## Inventory Example
 ```ini
