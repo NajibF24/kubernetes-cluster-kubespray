@@ -1,0 +1,13 @@
+
+graph TD
+  subgraph Control Plane
+    node1["node1 (control-plane + etcd)"]
+  end
+
+  subgraph Workers
+    node2["node2 (worker)"]
+    node3["node3 (worker)"]
+  end
+
+  node1 --> node2
+  node1 --> node3
